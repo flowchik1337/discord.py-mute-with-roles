@@ -1,1 +1,1 @@
-token = "YOUR BOT TOKEN HERE""
+token = "YOUR BOT TOKEN HERE"
